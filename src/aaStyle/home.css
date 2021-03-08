@@ -1,0 +1,14 @@
+.book-container{
+    position: absolute;
+    right: 40%;
+    margin-top: -90px;
+    margin-left: 20px;
+}
+.page6{
+    text-decoration: underline 2px solid black;
+}
+@media (max-width: 780px) {
+    .col-4{
+        
+    }
+ }

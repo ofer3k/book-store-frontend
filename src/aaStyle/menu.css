@@ -1,0 +1,10 @@
+
+.nav1{
+    background-color: #493705;
+    min-height: 70px;
+}
+.logout{
+    display: flex;
+    position:absolute;
+    right: 15px;
+}
